@@ -3,17 +3,17 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://AntonPtashynskyi.github.io/project-js-demo",
+  "homepage": "https://goitacademy.github.io/parcel-project-template",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-js-demo/"
+    "build": "parcel build src/*.html --public-url /parcel-project-template/"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": Anton Ptashynskyi <a.ptashynskyi@gmail.com>",
+  "author": "Anton Ptashynskyi  <a.ptashynskyi@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
