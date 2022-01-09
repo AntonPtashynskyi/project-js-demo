@@ -1,4 +1,4 @@
-28818
+28823
 75D:\Reposetories\GitHub\project-js-demo\node_modules\lodash\_stringToPath.js132861193386570801 0
 84D:\Reposetories\GitHub\project-js-demo\node_modules\string.prototype.trimend\auto.js132861193356358132 0
 71D:\Reposetories\GitHub\project-js-demo\node_modules\yaml\types\pairs.js132861193365552849 0
@@ -151,7 +151,7 @@
 141D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\optimizer-svgo\node_modules\@parcel\utils\test\input\sourcemap\source-root.js.map132861193380794109 0
 78D:\Reposetories\GitHub\project-js-demo\node_modules\lodash\fp\toSafeInteger.js132861193393866626 0
 114D:\Reposetories\GitHub\project-js-demo\node_modules\browserslist\node_modules\caniuse-lite\data\features\jpegxl.js132861193389589072 0
-43D:\Reposetories\GitHub\project-js-demo\dist132862278497968719 1
+43D:\Reposetories\GitHub\project-js-demo\dist132862402344060007 1
 103D:\Reposetories\GitHub\project-js-demo\node_modules\posthtml-expressions\node_modules\entities\lib\maps132861193360655658 1
 123D:\Reposetories\GitHub\project-js-demo\node_modules\browserslist\node_modules\caniuse-lite\data\features\x-doc-messaging.js132861193393226979 0
 60D:\Reposetories\GitHub\project-js-demo\node_modules\dashdash132861193358476919 1
@@ -303,7 +303,7 @@
 112D:\Reposetories\GitHub\project-js-demo\node_modules\@babel\generator\node_modules\source-map\lib\mapping-list.js132861193366532290 0
 106D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\transformer-posthtml\node_modules\entities\lib132861193367361812 1
 106D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\packager-html\node_modules\@parcel\logger\test132861193354379303 1
-49D:\Reposetories\GitHub\project-js-demo\src\images132862161769593765 1
+49D:\Reposetories\GitHub\project-js-demo\src\images132862381961029571 1
 137D:\Reposetories\GitHub\project-js-demo\node_modules\posthtml-expressions\node_modules\posthtml-parser\coverage\posthtml-parser\index.html132861193361745047 0
 105D:\Reposetories\GitHub\project-js-demo\node_modules\jsdom\lib\jsdom\living\nodes\HTMLAudioElement-impl.js132861193387300388 0
 103D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\optimizer-cssnano\node_modules\mdn-data\css132861193367521722 1
@@ -431,7 +431,7 @@
 80D:\Reposetories\GitHub\project-js-demo\node_modules\fastq\.github\dependabot.yml132861193363653977 0
 116D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\optimizer-htmlnano\node_modules\posthtml-parser\.huskyrc132861193351650823 0
 76D:\Reposetories\GitHub\project-js-demo\node_modules\react-refresh\runtime.js132861193358976635 0
-56D:\Reposetories\GitHub\project-js-demo\src\sass\main.css132862277675285844 0
+56D:\Reposetories\GitHub\project-js-demo\src\sass\main.css132862400670987211 0
 73D:\Reposetories\GitHub\project-js-demo\node_modules\parent-module\license132861193351271040 0
 111D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\transformer-babel\node_modules\ansi-styles\index.js132861193349821888 0
 88D:\Reposetories\GitHub\project-js-demo\node_modules\relateurl\lib\relate\findRelation.js132861193363913793 0
@@ -464,7 +464,7 @@
 84D:\Reposetories\GitHub\project-js-demo\node_modules\es-abstract\2021\RegExpCreate.js132861193392497396 0
 88D:\Reposetories\GitHub\project-js-demo\node_modules\http-proxy-middleware\dist\router.js132861193362274731 0
 91D:\Reposetories\GitHub\project-js-demo\node_modules\string.prototype.trimstart\CHANGELOG.md132861193363913793 0
-60D:\Reposetories\GitHub\project-js-demo\src\sass\main.css.map132862277675285844 0
+60D:\Reposetories\GitHub\project-js-demo\src\sass\main.css.map132862400670987211 0
 61D:\Reposetories\GitHub\project-js-demo\node_modules\csso\dist132861193366982033 1
 117D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\transformer-html\node_modules\domutils\lib\traversal.d.ts132861193367062000 0
 76D:\Reposetories\GitHub\project-js-demo\node_modules\source-map\source-map.js132861193353389832 0
@@ -495,7 +495,7 @@
 87D:\Reposetories\GitHub\project-js-demo\node_modules\core-js\es\reflect\to-string-tag.js132861193401062491 0
 123D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\runtime-react-refresh\node_modules\fast-glob\out\utils\array.js132861193350461505 0
 79D:\Reposetories\GitHub\project-js-demo\node_modules\yaml\dist\legacy-exports.js132861193361525163 0
-69D:\Reposetories\GitHub\project-js-demo\src\sass\utils\_variables.scss132862241735902291 0
+69D:\Reposetories\GitHub\project-js-demo\src\sass\utils\_variables.scss132862280895279572 0
 112D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\runtime-browser-hmr\node_modules\color-name\index.js132861193349851858 0
 81D:\Reposetories\GitHub\project-js-demo\node_modules\json-parse-even-better-errors132861193354469220 1
 79D:\Reposetories\GitHub\project-js-demo\node_modules\parcel\node_modules\@parcel132861193309295122 1
@@ -592,7 +592,7 @@
 107D:\Reposetories\GitHub\project-js-demo\node_modules\jsdom\lib\jsdom\living\generated\HTMLProgressElement.js132861193383942302 0
 86D:\Reposetories\GitHub\project-js-demo\node_modules\core-js\features\symbol\key-for.js132861193396555077 0
 121D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\transformer-posthtml\node_modules\domutils\lib\stringify.d.ts132861193366872098 0
-70D:\Reposetories\GitHub\project-js-demo\src\sass\components\_modal.scss132862277057294234 0
+70D:\Reposetories\GitHub\project-js-demo\src\sass\components\_modal.scss132862401728167189 0
 74D:\Reposetories\GitHub\project-js-demo\node_modules\@types\node\http2.d.ts132861193368701050 0
 126D:\Reposetories\GitHub\project-js-demo\node_modules\posthtml-expressions\node_modules\dom-serializer\lib\foreignNames.d.ts.map132861193355288735 0
 127D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\optimizer-htmlnano\node_modules\postcss-convert-values\package.json132861193355128838 0
@@ -636,7 +636,7 @@
 93D:\Reposetories\GitHub\project-js-demo\node_modules\wrap-ansi\node_modules\strip-ansi\license132861193347043475 0
 66D:\Reposetories\GitHub\project-js-demo\node_modules\colord\plugins132861193369610521 1
 130D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\runtime-react-refresh\node_modules\@nodelib\fs.stat\out\types\index.js132861193357727338 0
-63D:\Reposetories\GitHub\project-js-demo\src\partials\_modal.html132862276982990000 0
+63D:\Reposetories\GitHub\project-js-demo\src\partials\_modal.html132862402142188734 0
 88D:\Reposetories\GitHub\project-js-demo\node_modules\core-js\internals\collection-from.js132861193384282115 0
 113D:\Reposetories\GitHub\project-js-demo\node_modules\posthtml-expressions\node_modules\entities\lib\index.d.ts.map132861193363564007 0
 145D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\@parcel\utils\src\generateBuildMetrics.js132861193367771588 0
@@ -684,7 +684,7 @@
 72D:\Reposetories\GitHub\project-js-demo\node_modules\core-js\es\escape.js132861193391867759 0
 111D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\types\node_modules\@parcel\utils\src\http-server.js132861193369790418 0
 119D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\optimizer-cssnano\node_modules\css-tree\lib\parser\index.js132861193373888073 0
-65D:\Reposetories\GitHub\project-js-demo\src\images\symbol-defs.svg132862225180000000 0
+65D:\Reposetories\GitHub\project-js-demo\src\images\symbol-defs.svg132862384798246727 0
 101D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\transformer-babel\src\BabelTransformer.js132861193358686791 0
 71D:\Reposetories\GitHub\project-js-demo\node_modules\mime-types\index.js132861193349182250 0
 84D:\Reposetories\GitHub\project-js-demo\node_modules\es-abstract\2017\DateFromTime.js132861193384072233 0
@@ -4322,6 +4322,7 @@
 110D:\Reposetories\GitHub\project-js-demo\node_modules\jsdom\lib\jsdom\living\nodes\ProcessingInstruction-impl.js132861193389419168 0
 81D:\Reposetories\GitHub\project-js-demo\node_modules\is-bigint\.github\FUNDING.yml132861193360945501 0
 86D:\Reposetories\GitHub\project-js-demo\node_modules\core-js\es\string\virtual\blink.js132861193383012837 0
+62D:\Reposetories\GitHub\project-js-demo\dist\index.48f77245.css132862402343990055 0
 117D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\runtime-react-refresh\node_modules\color-convert\route.js132861193358556862 0
 82D:\Reposetories\GitHub\project-js-demo\node_modules\pbkdf2\lib\default-encoding.js132861193353399827 0
 93D:\Reposetories\GitHub\project-js-demo\node_modules\es-abstract\2021\DeletePropertyOrThrow.js132861193385491426 0
@@ -9686,7 +9687,7 @@
 67D:\Reposetories\GitHub\project-js-demo\node_modules\lodash\index.js132861193391288092 0
 129D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\optimizer-cssnano\node_modules\postcss-normalize-charset\package.json132861193352360417 0
 69D:\Reposetories\GitHub\project-js-demo\node_modules\lodash\initial.js132861193391338061 0
-66D:\Reposetories\GitHub\project-js-demo\dist\index.2bf8974d.css.map132862270440278148 0
+66D:\Reposetories\GitHub\project-js-demo\dist\index.2bf8974d.css.map132862400643518039 0
 91D:\Reposetories\GitHub\project-js-demo\node_modules\core-js\stable\array\virtual\reverse.js132861193399293508 0
 71D:\Reposetories\GitHub\project-js-demo\node_modules\colorette\index.cjs132861193346963528 0
 120D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\optimizer-terser\node_modules\@parcel\utils\lib\TapStream.js132861193379944612 0
@@ -12753,7 +12754,7 @@
 113D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\core\node_modules\@nodelib\fs.stat\out\adapters\fs.js132861193353719640 0
 90D:\Reposetories\GitHub\project-js-demo\node_modules\http-proxy-middleware\dist\router.d.ts132861193367761596 0
 94D:\Reposetories\GitHub\project-js-demo\node_modules\core-js\internals\collection-delete-all.js132861193384272125 0
-73D:\Reposetories\GitHub\project-js-demo\dist\home_hero_tablet.e5697bee.jpg132862269794913532 0
+73D:\Reposetories\GitHub\project-js-demo\dist\home_hero_tablet.e5697bee.jpg132862384710517900 0
 89D:\Reposetories\GitHub\project-js-demo\node_modules\http-proxy-middleware\dist\types.d.ts132861193367891510 0
 93D:\Reposetories\GitHub\project-js-demo\node_modules\cssstyle\lib\properties\borderCollapse.js132861193367251875 0
 123D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\bundler-default\node_modules\@parcel\logger\test\Logger.test.js132861193354799022 0
@@ -15199,7 +15200,7 @@
 68D:\Reposetories\GitHub\project-js-demo\node_modules\dir-glob\license132861193351351006 0
 105D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\types\node_modules\@nodelib\fs.stat\README.md132861193360765630 0
 123D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\transformer-postcss\node_modules\fast-glob\out\utils\pattern.js132861193364513447 0
-77D:\Reposetories\GitHub\project-js-demo\dist\home_hero_desctop@x2.b9164920.jpg132862269794744412 0
+77D:\Reposetories\GitHub\project-js-demo\dist\home_hero_desctop@x2.b9164920.jpg132862384709369209 0
 70D:\Reposetories\GitHub\project-js-demo\node_modules\dir-glob\readme.md132861193352990072 0
 90D:\Reposetories\GitHub\project-js-demo\node_modules\core-js\features\instance\pad-start.js132861193398394039 0
 73D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\namer-default132861193353469780 1
@@ -17241,7 +17242,7 @@
 115D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\optimizer-terser\node_modules\@parcel\utils\src\blob.js132861193359406381 0
 125D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\transformer-image\node_modules\fast-glob\out\providers\async.d.ts132861193367671644 0
 92D:\Reposetories\GitHub\project-js-demo\node_modules\core-js\features\typed-array\group-by.js132861193394846049 0
-76D:\Reposetories\GitHub\project-js-demo\dist\home_hero_mobile@x2.eb69fd9e.jpg132862269795057248 0
+76D:\Reposetories\GitHub\project-js-demo\dist\home_hero_mobile@x2.eb69fd9e.jpg132862384709896857 0
 92D:\Reposetories\GitHub\project-js-demo\node_modules\core-js\features\typed-array\includes.js132861193395105909 0
 110D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\optimizer-image\node_modules\fast-glob\out\readers132861193370280149 1
 92D:\Reposetories\GitHub\project-js-demo\node_modules\core-js\features\typed-array\index-of.js132861193395185854 0
@@ -17636,7 +17637,7 @@
 87D:\Reposetories\GitHub\project-js-demo\node_modules\core-js\features\array\find-last.js132861193393566800 0
 82D:\Reposetories\GitHub\project-js-demo\node_modules\core-js\features\array\find.js132861193393626750 0
 86D:\Reposetories\GitHub\project-js-demo\node_modules\core-js\features\array\flat-map.js132861193393816649 0
-62D:\Reposetories\GitHub\project-js-demo\dist\index.2bf8974d.css132862270440268153 0
+62D:\Reposetories\GitHub\project-js-demo\dist\index.2bf8974d.css132862400643498048 0
 88D:\Reposetories\GitHub\project-js-demo\node_modules\core-js\features\array\from-async.js132861193394236400 0
 122D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\is-number\index.js132861193349771906 0
 82D:\Reposetories\GitHub\project-js-demo\node_modules\core-js\features\array\from.js132861193394326357 0
@@ -26032,6 +26033,7 @@
 118D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\optimizer-image\node_modules\fast-glob\out\utils\path.d.ts132861193369190782 0
 116D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\optimizer-image\node_modules\fast-glob\out\utils\path.js132861193364053716 0
 121D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\optimizer-image\node_modules\fast-glob\out\utils\pattern.d.ts132861193369310711 0
+62D:\Reposetories\GitHub\project-js-demo\dist\index.1604d50f.css132862369996407196 0
 123D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\optimizer-cssnano\node_modules\svgo\plugins\removeDimensions.js132861193370200190 0
 118D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\optimizer-image\node_modules\fast-glob\out\utils\stream.js132861193366322408 0
 122D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\optimizer-image\node_modules\fast-glob\out\readers\reader.d.ts132861193369610521 0
@@ -26688,6 +26690,7 @@
 109D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\markdown-ansi\node_modules\color-convert\route.js132861193358606847 0
 127D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\lexer.js132861193376186754 0
 125D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\mix.js132861193380134501 0
+68D:\Reposetories\GitHub\project-js-demo\dist\symbol-defs.dcda6633.svg132862402343990055 0
 128D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\walker.js132861193382123348 0
 128D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\atrule\import.js132861193371849239 0
 107D:\Reposetories\GitHub\project-js-demo\node_modules\@parcel\optimizer-cssnano\node_modules\svgo\lib\xast.js132861193379714733 0
@@ -28794,26 +28797,28 @@
 65D:\Reposetories\GitHub\project-js-demo\node_modules\.bin\uuid.ps1132861193402861450 0
 61D:\Reposetories\GitHub\project-js-demo\dist\film.9fbdd00c.svg132861965162909356 0
 74D:\Reposetories\GitHub\project-js-demo\dist\home_hero_desctop.5daaaf06.jpg132862184796733269 0
-74D:\Reposetories\GitHub\project-js-demo\dist\home_hero_desctop.75cd1eb5.jpg132862269794724425 0
+74D:\Reposetories\GitHub\project-js-demo\dist\home_hero_desctop.75cd1eb5.jpg132862384709565179 0
 77D:\Reposetories\GitHub\project-js-demo\dist\home_hero_desctop@x2.4b839c2b.jpg132862184795141268 0
-73D:\Reposetories\GitHub\project-js-demo\dist\home_hero_mobile.c7ba5cd4.jpg132862269794634475 0
+73D:\Reposetories\GitHub\project-js-demo\dist\home_hero_mobile.c7ba5cd4.jpg132862384708833725 0
 73D:\Reposetories\GitHub\project-js-demo\dist\home_hero_tablet.6019868c.jpg132862184794661283 0
-76D:\Reposetories\GitHub\project-js-demo\dist\home_hero_tablet@x2.2b711c28.jpg132862269794684449 0
+76D:\Reposetories\GitHub\project-js-demo\dist\home_hero_tablet@x2.2b711c28.jpg132862384708833725 0
 66D:\Reposetories\GitHub\project-js-demo\dist\index.0a7ebc09.css.map132861924061311574 0
+66D:\Reposetories\GitHub\project-js-demo\dist\index.1604d50f.css.map132862369996457165 0
 62D:\Reposetories\GitHub\project-js-demo\dist\index.280606e4.css132862021407845314 0
 66D:\Reposetories\GitHub\project-js-demo\dist\index.280606e4.css.map132862021407865448 0
 62D:\Reposetories\GitHub\project-js-demo\dist\index.350e1121.css132861391582936206 0
 66D:\Reposetories\GitHub\project-js-demo\dist\index.350e1121.css.map132861391582986177 0
+66D:\Reposetories\GitHub\project-js-demo\dist\index.48f77245.css.map132862402344060007 0
 66D:\Reposetories\GitHub\project-js-demo\dist\index.530d6e16.css.map132862278497958700 0
 62D:\Reposetories\GitHub\project-js-demo\dist\index.93d49872.css132862255571615037 0
 66D:\Reposetories\GitHub\project-js-demo\dist\index.93d49872.css.map132862255571695013 0
-54D:\Reposetories\GitHub\project-js-demo\dist\index.html132862278497899861 0
-71D:\Reposetories\GitHub\project-js-demo\dist\project-js-demo.356c6128.js132862269795007146 0
-75D:\Reposetories\GitHub\project-js-demo\dist\project-js-demo.356c6128.js.map132862269795017140 0
+54D:\Reposetories\GitHub\project-js-demo\dist\index.html132862402343990055 0
+71D:\Reposetories\GitHub\project-js-demo\dist\project-js-demo.356c6128.js132862384709806879 0
+75D:\Reposetories\GitHub\project-js-demo\dist\project-js-demo.356c6128.js.map132862384709826863 0
 68D:\Reposetories\GitHub\project-js-demo\dist\symbol-defs.da22ceaf.svg132862184828271301 0
-68D:\Reposetories\GitHub\project-js-demo\dist\symbol-defs.f6503a13.svg132862269794825634 0
+68D:\Reposetories\GitHub\project-js-demo\dist\symbol-defs.f6503a13.svg132862384800817469 0
 61D:\Reposetories\GitHub\project-js-demo\dist\test.6c1f5e67.jpg132862184795141268 0
-61D:\Reposetories\GitHub\project-js-demo\dist\test.b8e9fb78.jpg132862269794704437 0
+61D:\Reposetories\GitHub\project-js-demo\dist\test.b8e9fb78.jpg132862384708833725 0
 66D:\Reposetories\GitHub\project-js-demo\dist\_film-card.9bd58716.js132862163100104920 0
 70D:\Reposetories\GitHub\project-js-demo\dist\_film-card.9bd58716.js.map132862163100124915 0
 56D:\Reposetories\GitHub\project-js-demo\.github\workflows132861175753864423 1
