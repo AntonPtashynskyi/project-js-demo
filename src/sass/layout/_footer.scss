@@ -1,0 +1,22 @@
+.footer {
+  height: 100px;
+
+  padding: 30px 38px;
+
+  background-color: $footer-bgc;
+  font-size: 14px;
+  color: $footer-text-color;
+  text-align: center;
+}
+
+.footer__students {
+  cursor: pointer;
+  color: $footer-text-color;
+  border-bottom: 1px solid $footer-text-color;
+}
+
+@media screen and (min-width: 768px) {
+  .footer {
+    font-size: 16px;
+  }
+}
