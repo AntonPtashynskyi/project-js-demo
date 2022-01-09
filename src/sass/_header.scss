@@ -1,0 +1,108 @@
+.container {
+  margin-left: auto;
+  margin-right: auto;
+
+  padding: 46px 20px;
+}
+
+.navigation {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+
+  &__logo {
+    margin-right: auto;
+  }
+
+  &__logo-icon {
+    width: 24px;
+    height: 24px;
+  }
+}
+
+.search-form-group__search {
+  margin-top: 40px;
+  width: 100%;
+  border: none;
+  background-color: transparent;
+  border-bottom: 1px solid #fff;
+  color: $header-text-color;
+
+  &::placeholder {
+    color: #fff;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+
+    align-items: center;
+  }
+
+  &:focus,
+  :hover {
+    outline: none;
+    border-color: transparent;
+    border-bottom: 1px solid #fff;
+  }
+}
+
+.hero-section {
+  max-width: 320px;
+  height: 230px;
+
+  background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
+    url(../images/home_hero_mobile@x2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navigation__item {
+  color: #fff;
+
+  &:hover,
+  :focus {
+    border-bottom: 3px solid red;
+    cursor: pointer;
+  }
+}
+
+.navigation__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  height: 17px;
+
+  :not(:last-child) {
+    margin-right: 20px;
+  }
+}
+
+.search-form-group {
+  width: 100%;
+  align-items: baseline;
+
+  position: relative;
+
+  margin-bottom: 22px;
+
+  &__icon {
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    bottom: 5px;
+    right: 0px;
+  }
+}
+
+.search-notification {
+  font-weight: 400;
+  color: #ff001b;
+  font-size: 14px;
+  line-height: 16px;
+}
